@@ -34,6 +34,9 @@ I enjoy designing intelligent electronic systems by combining **hardware**, **em
 
 # 🛠 Tech Stack
 
+ Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ### Programming
 
 <p>
