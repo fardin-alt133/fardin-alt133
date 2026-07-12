@@ -46,9 +46,10 @@ I enjoy designing intelligent electronic systems by combining **hardware**, **em
 ## 🧰 Tools & Software
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,arduino,matlab,proteus,autocad,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,arduino,matlab,autocad,git,github" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Proteus-1F4E79?style=for-the-badge&logo=proteus&logoColor=white" />
 </p>
-
 
 # 📊 Contribution Graph
 
