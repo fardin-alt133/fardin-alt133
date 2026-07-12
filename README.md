@@ -56,34 +56,6 @@ I enjoy designing intelligent electronic systems by combining **hardware**, **em
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fardin-alt133&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardin-alt133&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=fardin-alt133&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=fardin-alt133&theme=tokyonight&no-frame=true&column=7"/>
-
-</p>
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
