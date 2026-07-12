@@ -46,7 +46,7 @@ I enjoy designing intelligent electronic systems by combining **hardware**, **em
 ## 🧰 Tools & Software
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,arduino,matlab,autocad,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,arduino,matlab,proteus,autocad,git,github" />
 </p>
 
 
