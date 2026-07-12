@@ -1,16 +1,157 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**fardin-alt133/fardin-alt133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Fardin Meah
 
-Here are some ideas to get you started:
+### ⚡ Electrical & Electronic Engineering Student
+### 🤖 Embedded Systems • IoT • AI Enthusiast • Circuit Designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Electrical+%26+Electronic+Engineering+Student;Embedded+Systems+Developer;IoT+Project+Builder;Python+Developer;Circuit+Design+Enthusiast;Future+AI+Engineer" />
+
+<img src="https://komarev.com/ghpvc/?username=fardin-alt133&style=for-the-badge&color=0e75b6"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+🎓 **2nd Year Electrical & Electronic Engineering Student**  
+🏫 **Premier University, Chattogram, Bangladesh**
+
+I enjoy designing intelligent electronic systems by combining **hardware**, **embedded programming**, and **software**. My interests include embedded systems, IoT, analog and digital circuit design, and AI-driven engineering solutions.
+
+---
+
+## 🚀 Current Focus
+
+- 🔭 Building Embedded Systems Projects
+- 🌱 Learning Machine Learning & AI
+- 📡 Exploring IoT Applications with ESP32
+- ⚡ Improving Circuit Design Skills
+- 💻 Developing Python-based Engineering Tools
+
+---
+
+# 🛠 Tech Stack
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c"/>
+</p>
+
+### Embedded & Electronics
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino"/>
+</p>
+
+- ESP32
+- IoT
+- Proteus
+- MATLAB
+- AutoCAD
+- Circuit Design
+- Embedded Systems Design
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fardin-alt133&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardin-alt133&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=fardin-alt133&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=fardin-alt133&theme=tokyonight&no-frame=true&column=7"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fardin-alt133&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Project
+
+## 🧠 Analog Artificial Neuron Model
+
+**Design & Implementation using TL074 Quad Operational Amplifier**
+
+### Highlights
+
+- Hardware Artificial Neuron
+- Analog Neural Network Concept
+- TL074 Quad Operational Amplifier
+- Electronic Circuit Design
+- Real-Time Signal Processing
+- Engineering Hardware Project
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Embedded Systems
+- ✅ Learn Machine Learning
+- ✅ Publish High-quality GitHub Projects
+- ✅ Contribute to Open Source
+- ✅ Design Professional PCB Projects
+- ✅ Build Real-world IoT Systems
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:fariyadfardin@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fariyad-fardin-meah-355a64384/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/fardin-alt133">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> *"Engineering transforms ideas into reality through innovation, creativity, and persistence."*
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Always learning, always building."* 🚀
+
+</div>
