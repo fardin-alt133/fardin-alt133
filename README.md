@@ -45,15 +45,9 @@ I enjoy designing intelligent electronic systems by combining **hardware**, **em
 
 ## 🧰 Tools & Software
 
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-![Proteus](https://img.shields.io/badge/Proteus-1F4E79?style=for-the-badge)
-
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-![AutoCAD](https://img.shields.io/badge/AutoCAD-EA1B2D?style=for-the-badge&logo=autodesk&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,arduino,matlab,autocad,git,github" />
+</p>
 
 ## 🛠️ Embedded Systems & Engineering Tools
 
