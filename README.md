@@ -78,17 +78,6 @@ I enjoy designing intelligent electronic systems by combining **hardware**, **em
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Master Embedded Systems
-- ✅ Learn Machine Learning
-- ✅ Publish High-quality GitHub Projects
-- ✅ Contribute to Open Source
-- ✅ Design Professional PCB Projects
-- ✅ Build Real-world IoT Systems
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
