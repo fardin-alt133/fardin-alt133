@@ -46,13 +46,40 @@ I enjoy designing intelligent electronic systems by combining **hardware**, **em
 <img src="https://skillicons.dev/icons?i=arduino"/>
 </p>
 
-- ESP32
-- IoT
-- Proteus
-- MATLAB
-- AutoCAD
-- Circuit Design
-- Embedded Systems Design
+## 🛠️ Embedded Systems & Engineering Tools
+
+<p align="center">
+
+<a href="https://www.espressif.com/en/products/socs/esp32">
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Internet_of_things">
+<img src="https://img.shields.io/badge/IoT-00C853?style=for-the-badge&logo=internetofthings&logoColor=white" />
+</a>
+
+<a href="https://www.labcenter.com/">
+<img src="https://img.shields.io/badge/Proteus-1E88E5?style=for-the-badge&logo=proteus&logoColor=white" />
+</a>
+
+<a href="https://www.mathworks.com/products/matlab.html">
+<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white" />
+</a>
+
+<a href="https://www.autodesk.com/products/autocad">
+<img src="https://img.shields.io/badge/AutoCAD-E53935?style=for-the-badge&logo=autodesk&logoColor=white" />
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Circuit%20Design-1565C0?style=for-the-badge&logo=electronics&logoColor=white" />
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Embedded%20Systems-6A1B9A?style=for-the-badge&logo=microchip&logoColor=white" />
+</a>
+
+</p>
+
 
 ---
 
