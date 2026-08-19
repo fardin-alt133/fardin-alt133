@@ -22,16 +22,6 @@ I enjoy designing intelligent electronic systems by combining **hardware**, **em
 
 ---
 
-## 🚀 Current Focus
-
-- 🔭 Building Embedded Systems Projects
-- 🌱 Learning Machine Learning & AI
-- 📡 Exploring IoT Applications with ESP32
-- ⚡ Improving Circuit Design Skills
-- 💻 Developing Python-based Engineering Tools
-
----
-
 # 🛠 Tech Stack
 
 ### 🌐 Web Development
@@ -52,32 +42,6 @@ I enjoy designing intelligent electronic systems by combining **hardware**, **em
   <img src="https://img.shields.io/badge/CST%20Studio%20Suite-FF0000?style=for-the-badge&logo=cst&logoColor=white" />
 </p>
 
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fardin-alt133&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🚀 Featured Project
-
-## 🧠 Analog Artificial Neuron Model
-
-**Design & Implementation using TL074 Quad Operational Amplifier**
-
-### Highlights
-
-- Hardware Artificial Neuron
-- Analog Neural Network Concept
-- TL074 Quad Operational Amplifier
-- Electronic Circuit Design
-- Real-Time Signal Processing
-- Engineering Hardware Project
-
----
 
 # 🌐 Connect With Me
 
@@ -98,8 +62,6 @@ I enjoy designing intelligent electronic systems by combining **hardware**, **em
 </p>
 
 ---
-
-# 💡 Quote
 
 > *"Engineering transforms ideas into reality through innovation, creativity, and persistence."*
 
